@@ -1,4 +1,4 @@
-# ![Imagen de Portada](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg)  
+
 # 💻 ¡Hola! Soy Iván Silva 👋  
 ### Desarrollador Web Fullstack  
 
