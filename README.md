@@ -24,16 +24,16 @@
 ---
 
 ## 🌱 Actualmente estoy aprendiendo  
-- TypeScript  
-- Next.js  
+- TypeScript
+- Angular.js    
 - PHP
 - Mejores prácticas en seguridad web
 
 ---
 
 ## 📫 Contáctame  
-- **Email:** [tuemail@gmail.com](mailto:silvaivan280@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/ivan-silva22) 
+- **Email:** [silvaivan280@gmail.com](mailto:silvaivan280@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/ivan-silva22](https://linkedin.com/in/ivan-silva22) 
 
 ---
 
